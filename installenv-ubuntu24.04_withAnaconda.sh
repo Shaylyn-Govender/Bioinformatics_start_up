@@ -198,5 +198,5 @@ echo "MANDATORY_MANPATH /usr/local/gromacs/share/man" >> /home/${username}/.manp
 
 echo "Installations done"
 
-echo "Exit super use and run '/home/rehema/bin/conda/bin/conda init bash', then 'source .bashrc' to initialize conda and activate base environment"
+echo "Exit super use and run '/home/${username}/bin/conda/bin/conda init bash', then 'source .bashrc' to initialize conda and activate base environment"
 #FOR ACYPYPE INCASE IT FILES TO INSTALL'conda create --name acpype python=3.11''conda activate acpype''conda install -y -c conda-forge acpype'
